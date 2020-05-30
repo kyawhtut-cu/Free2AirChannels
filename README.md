@@ -33,6 +33,10 @@
  - [ ] **Cookie Asia** - *Not Available*
  - [ ] **Reader** [http://edge-stream-07.otv.co.th/livestream/Reader-Channel.stream/playlist.m3u8](http://edge-stream-07.otv.co.th/livestream/Reader-Channel.stream/playlist.m3u8)
  - [ ] **YTV** [http://206.189.149.137:8081/ytvchannelhd/ytvchannelhd/playlist.m3u8](http://206.189.149.137:8081/ytvchannelhd/ytvchannelhd/playlist.m3u8)
+ - [x] **Bein Sport 1** [https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8](https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8)
+ - [x] **Bein Sport 2** [https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8](https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8)
+ - [x] **MU TV** [https://cdn-laos.workpoint.news/uk-mutv_480/index.m3u8](https://cdn-laos.workpoint.news/uk-mutv_480/index.m3u8)
+ - [x] **LFC TV** [https://cdn-laos.workpoint.news/uk-lfctv_480/index.m3u8](https://cdn-laos.workpoint.news/uk-lfctv_480/index.m3u8)
 
 ## How to play and how to implement into your project?
 
